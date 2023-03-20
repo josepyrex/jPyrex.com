@@ -2136,8 +2136,8 @@ body {
   background-color: rgba(6, 0, 48, 0.2);
   background-image: none;
   opacity: 1;
-  -webkit-backdrop-filter: blur(15px);
-  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(25px);
+  backdrop-filter: blur(25px);
   background-clip: border-box;
   -webkit-text-fill-color: inherit;
   mix-blend-mode: normal;
