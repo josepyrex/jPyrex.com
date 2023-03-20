@@ -4327,7 +4327,7 @@ body {
 
   .heading-10-copy {
     padding-top: 0px;
-    padding-right: 150px;
+    padding-right: 0px;
     padding-left: 0px;
     font-size: 16px;
     line-height: 30px;
@@ -4335,6 +4335,7 @@ body {
   }
 
   .heading-10-copy-copy {
+    margin-bottom: 0px;
     padding-top: 0px;
     padding-right: 0px;
     padding-left: 0px;
@@ -4345,7 +4346,7 @@ body {
 
   .div-block-36 {
     display: block;
-    margin-bottom: -343px;
+    margin-bottom: 0px;
   }
 
   .div-block-19-copy {
@@ -4458,6 +4459,22 @@ body {
     position: relative;
     left: 58.1vw;
     top: -65vh;
+  }
+
+  .column-20 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+  }
+
+  .column-21 {
+    padding-right: 0px;
+    padding-left: 0px;
   }
 }
 
